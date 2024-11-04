@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Driven by curiosity, I’m a developer and data enthusiast committed to exploring the boundaries of AI and machine learning. My goal? To create clean, efficient code that powers impactful solutions.
 <!--
 **arnoldfreitas/arnoldfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
